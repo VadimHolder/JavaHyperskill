@@ -12,9 +12,7 @@ class ConcatenateStringsProblem {
         }
         
         return str.toString().replaceAll("\\d", "" );
-       
-        
-        
+     
     }
 
     public static void main(String[] args) {
